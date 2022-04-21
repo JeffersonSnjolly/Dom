@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(252, 252, 252);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#page-title{
+    margin: 50px;
+}
+#mode-selector{
+    margin: 50px;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.664);
+    color: rgb(252, 252, 252);
+}
+
+footer{
+    margin: 50px;
+}
+.dark-model{
+    background-color: black;
+    color: rgb(252, 252, 252);
+}
+
+#mode-selector .dark-model{
+    margin: 50px;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: white;
+    color: rgba(0, 0, 0, 0.87);
+}
